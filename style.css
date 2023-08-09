@@ -1,9 +1,7 @@
 body{
 font:size 110px ;  
-
+background-color: red;
 }
-
-body {background-color: red;}
 
 h1{
     color: rgb(231, 22, 22);
